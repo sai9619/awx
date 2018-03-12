@@ -1,4 +1,4 @@
-[![Run Status](https://api.shippable.com/projects/591c82a22f895107009e8b35/badge?branch=devel)](https://app.shippable.com/github/ansible/awx)
+[![Run Status](https://api.shippable.com/projects/591c82a22f895107009e8b35/badge?branch=devel)]###(https://app.shippable.com/github/ansible/awx)
 
 AWX
 ===
@@ -25,7 +25,7 @@ Reporting Issues
 
 If you're experiencing a problem, we encourage you to open an issue, and share your feedback. But before opening a new issue, we ask that you please take a look at our [Issues guide](./ISSUES.md).
 
-Code of Conduct
+Code of Conducts
 ---------------
 
 We ask all of our community members and contributors to adhere to the [Ansible code of conduct](http://docs.ansible.com/ansible/latest/community/code_of_conduct.html). If you have questions, or need assistance, please reach out to our community team at [codeofconduct@ansible.com](mailto:codeofconduct@ansible.com)   
